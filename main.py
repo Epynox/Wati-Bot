@@ -1072,4 +1072,4 @@ async def on_command_error(ctx, error):
 		await ctx.send("Vous n'avez pas la permission de faire cette commande")
 
 
-bot.run("OTQ0NzM0NzQwNTkyODUzMDEz.YhF6yg.d51wCc4SxSXlN5AEIn3vqjZWcwI")
+bot.run("Token")

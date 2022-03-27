@@ -1,4 +1,4 @@
-# discord-bot-python
+# Bot Discord en Python
 Codé par  Maxence M
 
 
